@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git is free software.
 you are good
 I am master and feature1;
-
+a new branch
