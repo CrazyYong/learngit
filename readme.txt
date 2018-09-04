@@ -4,6 +4,6 @@ Git is free software.
 you are good
 I am master and feature1;
 a new branch
-Git is free software
+Git is a free software ...
 git stash test
 
