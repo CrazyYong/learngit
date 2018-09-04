@@ -5,3 +5,5 @@ you are good
 I am master and feature1;
 a new branch
 Git is free software
+git stash test
+
